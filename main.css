@@ -1,0 +1,349 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.header
+{
+	background-color:rgb(38, 38, 38);
+	height: 20%;
+	width: 100%;
+    font-family:  Kristen ITC;	
+    text-decoration-line: none;
+}
+.image1{
+    width: 100%;
+    height:138%;
+    position: absolute;
+    top: 145;
+}
+.image2{
+    width: 100%;
+    height:150%;
+    position: absolute;
+    top: 145;
+}
+.image3{
+    width: 100%;
+    height:120%;
+    position: absolute;
+    top: 145;
+}
+.image4{
+    width: 8%;
+    height: 15%;
+    border-radius: 50%;
+    position: absolute; 
+    top: 38%; 
+    left:35%;
+}
+.image5{
+    width: 8%;
+    height: 15%;
+    border-radius: 50%;
+    position: absolute; 
+    top: 60%; 
+    left:35%;
+}
+.image6{
+    width: 8%;
+    height: 15%;
+    border-radius: 50%;
+    position: absolute; 
+    top: 82%; 
+    left:35%;
+}
+.image7{
+    width: 8%;
+    height: 15%;
+    border-radius: 50%;
+    position: absolute; 
+    top: 102%; 
+    left:35%;
+}
+.image8{
+    width: 10%;
+    height: 20%;
+    border-radius: 50%;
+    position: absolute; 
+    top: 40%; 
+    left: 6%;
+}
+.image9{
+    width: 10%;
+    height: 20%;
+    border-radius: 50%;
+    position: absolute; 
+    top: 70%; 
+    left: 26%;
+}
+.image10{
+    width: 10%;
+    height: 20%;
+    position: absolute; 
+    top: 100%; 
+    left: 5%;
+}
+.image11{
+    width: 6.5%;
+    height: 13%;
+    position: absolute; 
+    top: 103.3%; 
+    left: 18%;
+}
+.image12{
+    width: 6.5%;
+    height: 13%;
+    position: absolute; 
+    top: 103.3%; 
+    left: 29%;
+}
+.body{
+    height: 20%;
+    width: 100%;
+}
+.pay{
+    color: orange;
+    font-size: 15pt;
+    font-family:  Motion Picture Personal Use;
+}
+#home{
+    position: absolute; 
+    top:8%; 
+    left:25%; 
+    font-size: 10pt;
+}
+#home:hover{
+    background-color: rgb(78, 78, 78);
+    padding: 6px 12px;
+}
+#menu{
+    position: absolute; 
+    top:8%; 
+    left:33%;  
+    font-size: 10pt;
+}
+#menu:hover{
+    background-color: rgb(78, 78, 78);
+    padding: 6px 12px;
+}
+#shop{
+    position: absolute; 
+    top:6%; 
+    left:40%; 
+    color:white;
+    font-size: 25pt;
+}
+#since{
+    position: absolute; 
+    top:14%; 
+    left:46%; 
+    color:white; 
+    font-size: 8pt;
+}
+#payment{
+    position: absolute; 
+    top:8%; 
+    left:61%;  
+    font-size: 10pt;
+}
+#payment:hover{
+    background-color: rgb(78, 78, 78);
+    padding: 6px 12px;
+}
+#contact{
+    position: absolute; 
+    top:8%; 
+    left:70%;  
+    font-size: 10pt;
+}
+#contact:hover{
+    background-color: rgb(78, 78, 78);
+    padding: 6px 12px;
+}
+#button1{
+    width: 5%;
+    height: 5%;
+    color: white;
+    border: 0px solid black;
+    background-color: rgb(38, 38, 38);
+    position: absolute;
+    top: 140%;
+    right: 48%;
+}
+#button2{
+    width: 5%;
+    height: 5%;
+    color: white;
+    border: 0px solid black;
+    background-color: rgb(38, 38, 38);
+    position: absolute;
+    top: 140%;
+    right: 53%;
+}
+#button3{
+    width: 5%;
+    height: 5%;
+    color: white;
+    border: 0px solid black;
+    background-color: rgb(38, 38, 38);
+    position: absolute;
+    top: 140%;
+    right: 42%;
+}
+#button4{
+    width: 5%;
+    height: 5%;
+    color: white;
+    border: 0px solid black;
+    background-color: rgb(38, 38, 38);
+    position: absolute;
+    top: 140%;
+    right: 47%;
+}
+#img1{
+    position: absolute;
+    top: 34%;
+    left: 12%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img1:hover{
+    opacity: 0.3;
+}
+#img2{
+    position: absolute;
+    top: 34%;
+    left: 34%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img2:hover{
+    opacity: 0.3;
+}
+#img3{
+    position: absolute;
+    top: 34%;
+    right: 34%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img3:hover{
+    opacity: 0.3;
+}
+#img4{
+    position: absolute;
+    top: 34%;
+    right: 12%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img4:hover{
+    opacity: 0.3;
+}
+#img5{
+    position: absolute;
+    top: 69%;
+    left: 12%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img5:hover{
+    opacity: 0.3;
+}
+#img6{
+    position: absolute;
+    top: 69%;
+    left: 34%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img6:hover{
+    opacity: 0.3;
+}
+#img7{
+    position: absolute;
+    top: 69%;
+    right: 34%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img7:hover{
+    opacity: 0.3;
+}
+#img8{
+    position: absolute;
+    top: 69%;
+    right: 12%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img8:hover{
+    opacity: 0.3;
+}
+#img9{
+    position: absolute;
+    top: 104%;
+    left: 34%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img9:hover{
+    opacity: 0.3;
+}
+#img10{
+    position: absolute;
+    top: 104%;
+    right: 34%;
+    border-radius: 50%;
+    width: 8%;
+    height: 16%;
+}
+#img10:hover{
+    opacity: 0.3;
+}
+h1{
+    position: absolute;
+    top: 105%;
+    right: 40%;
+    font-family: Friendly Schoolmates;
+    font-size: 20pt;
+    color: white;
+}
+h2{
+    position: absolute;
+    top: 125%;
+    right: 40.2%;
+    font-family: Friendly Schoolmates;
+    font-size: 20pt;
+    color: white;
+}
+h4{
+    position: absolute;
+    top: 122%;
+    left: 8%;
+    font-family: tahoma;
+    font-size: 10pt;
+    color: white;
+}
+p{
+    position: absolute;
+    bottom: -50%;
+    left: 38%;
+    font-size: 20pt;
+    font-family: Friendly Schoolmates;
+    color: yellow;
+
+}
+
+
+
+
